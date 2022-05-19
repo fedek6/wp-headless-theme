@@ -1,0 +1,27 @@
+/*
+Theme Name: Headless Theme
+Theme URI: http://wordpress.org/themes/twentythirteen
+Author: RealHero
+Author URI: https://realhe.ro
+Description: Simple "show nothing" theme for headless WP instances
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: headless, void
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+
+    font-family: 'Courier New', monospace;
+    background-color: black;
+    color: White;
+}
