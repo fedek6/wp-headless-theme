@@ -2,4 +2,6 @@
 
 # Donation widget via PayU
 
-Theme to hide WordPress frontend. It shows only 404 error. 
+Theme to hide WordPress frontend. It shows only 404 error.
+
+This is ideal for headless solutions. 
